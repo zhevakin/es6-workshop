@@ -1,0 +1,26 @@
+{
+  "name": "es6-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^5.1.4",
+    "babel-core": "^5.6.5",
+    "browser-sync": "^2.7.12",
+    "css-loader": "^0.15.1",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "style-loader": "^0.12.3",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.11"
+  },
+  "devDependencies": {
+    "run-sequence": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start" : "gulp dev",
+  "author": "",
+  "license": "ISC"
+}
